@@ -1,1 +1,3 @@
-# git_learning
+# gitcode
+
+this is to learn git
